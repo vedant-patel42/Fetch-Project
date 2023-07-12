@@ -17,17 +17,17 @@ git clone https://github.com/your-username/receipt-processor.git
 2. Install the dependencies:
 ```yaml
 cd receipt-processor
+```
+```yaml
 npm install
 ```
 3. Start the Server:
 ```yaml
 npm start
-
-#If you want to run in developement mode
-npm dev 
 ```
-
 The server will start running on <b>`http://localhost:3000`</b>.
+
+Download Postman from https://www.postman.com/downloads/ to test POST and GET request.
 
 # Files/Folders Description
 
