@@ -14,7 +14,7 @@ To install and run the Receipt Processor, follow these steps:<br><br>
 ```yaml
 git clone https://github.com/vedant-patel42/Fetch-Project.git
 ```
-2. Inside the Fetch-Project folder, follow the below necessory steps:
+2. Please Follow the below necessory steps:
 
 ```yaml
 cd Fetch-Project
