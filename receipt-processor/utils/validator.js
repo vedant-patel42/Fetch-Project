@@ -1,5 +1,8 @@
 validateReceipt = (receiptData) => {
   const { retailer, purchaseDate, purchaseTime, items, total } = receiptData;
+  if (Object.keys(receiptData).length === 0) {
+    return 'Empty receipt data';
+  }
   if (!retailer || typeof retailer !== 'string') {
     return 'Retailer name is missing or invalid';
   }
