@@ -12,7 +12,7 @@ The API specification for the Receipt Processor is described in the <a href="htt
 To install and run the Receipt Processor, follow these steps:<br><br>
 1. Clone the repository:
 ```yaml
-git clone https://github.com/your-username/receipt-processor.git
+git clone https://github.com/vedant-patel42/receipt-processor.git
 ```
 2. Install the dependencies:
 ```yaml
