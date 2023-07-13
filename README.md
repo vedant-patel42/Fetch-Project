@@ -14,7 +14,7 @@ To install and run the Receipt Processor, follow these steps:<br><br>
 ```yaml
 git clone https://github.com/vedant-patel42/receipt-processor.git
 ```
-2. Install the dependencies:
+2. Inside the downloaded repository folder, follow the below necessaory steps:
 ```yaml
 cd receipt-processor
 ```
